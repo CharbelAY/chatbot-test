@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "serve": "cp -R src/assets dist/assets && parcel serve src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
